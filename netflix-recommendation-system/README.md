@@ -99,6 +99,6 @@ Output: Interstellar, The Matrix, Shutter Island, Tenet, Memento
 
 ## Author
 
-**Mayank Chouhan**  
+**Prashant Peeramal**  
 B.Tech CSE | IBM Certified Data Science Professional  
-[LinkedIn](https://linkedin.com/in/mayank-chouhan-b12940288) · [GitHub](https://github.com/mynkchn)
+
